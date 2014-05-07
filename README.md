@@ -34,5 +34,7 @@ Hello World
 Ss
 ```
 
-GCC4.8.1
-Clang3.4
+Test to those compiler
+
+* GCC4.8.1
+* Clang3.4
